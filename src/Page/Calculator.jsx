@@ -1,5 +1,4 @@
 import styles from "./Calculator.module.css"
-import { useState } from "react"
 import { useSelector } from "react-redux";
 import { calDisplay } from "../features/Calculator/CalculatorSlice";
 import { calculatorActions } from "../features/Calculator/CalculatorSlice";
