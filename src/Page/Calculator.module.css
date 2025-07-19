@@ -6,7 +6,7 @@
 }
 
 .screen{
-    border: solid red 2px;
+    border: solid rgb(255, 255, 255) 2px;
     display: flex;
     flex-direction: row-reverse;
     flex-wrap: wrap;
